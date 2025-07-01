@@ -1,4 +1,4 @@
-# 【ChatGPT 免费】国内免费可用的 ChatGPT 免费推荐~ （支持 GPT-4，无需翻墙）【2025/07/02 更新】    
+# 【ChatGPT 免费】国内免费可用的 ChatGPT 免费推荐~ （支持 GPT-4，无需翻墙）【2025/07/03 更新】    
 
 **想在国内免费使用 ChatGPT**？支持 ChatGPT-4，**无需翻墙，轻松使用 ChatGPT~**
 
@@ -21,7 +21,7 @@
 
 ## 1. 为什么选择 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://talk.lanjing.pro) 是专为中文用户优化的版本，旨在提供流畅、智能的对话体验。
+[**ChatGPT 中文版**](https://ai.lanjing.pro) 是专为中文用户优化的版本，旨在提供流畅、智能的对话体验。
 
 - **本地化设计**：针对中文用户进行了优化，语言处理更加自然。
 - **无需翻墙**：通过国内镜像网站，可以快速访问，无需 VPN。
@@ -33,7 +33,7 @@
 
 以下是一些免费推荐的国内 **ChatGPT 中文版镜像网站**，您可以在无需翻墙的情况下，顺畅使用 ChatGPT：
 
-1. **蓝鲸AI ([talk.lanjing.pro](https://talk.lanjing.pro/))**  
+1. **蓝鲸AI ([ai.lanjing.pro](https://ai.lanjing.pro/))**  
    **ChatGPT 中文版**，提供全面的 GPT-4o、4o mini 和 o1 支持，包含 AI 绘画功能，易于使用。
 
 2. **简单AI ([xsimplechat.com](https://xsimplechat.com/))**  
@@ -66,7 +66,7 @@
 
 ## 4. 如何快速使用 ChatGPT 中文版
 
-1. **访问镜像站点**：选择一个推荐的镜像站点（如 **蓝鲸AI ([talk.lanjing.pro](https://talk.lanjing.pro/))**）。
+1. **访问镜像站点**：选择一个推荐的镜像站点（如 **蓝鲸AI ([ai.lanjing.pro](https://ai.lanjing.pro/))**）。
 2. **注册或直接使用**：
    - **微信扫码登录**：微信扫码即可快速访问，无需单独注册。
    - **免注册体验**：直接输入问题，立即获得智能解答。
